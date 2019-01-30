@@ -1,0 +1,14 @@
+[package]
+name = "log_demo"
+version = "0.1.0"
+authors = ["Morley, Jonathan <morley.jonathan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+log = "0.4"
+cute-log = "1"
+env_logger = "0.6"
+pretty_env_logger = "0.3"
+simple_logger = "1"
+simplelog = "0.5"
+stderrlog = "*"
